@@ -1,4 +1,4 @@
-# Bettermint on iOS Setup Guide
+# Bettermint on iOS Setup Guide ✅
 
 ## How to use Bettermint with the Orion Browser
 
