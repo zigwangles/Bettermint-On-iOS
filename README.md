@@ -41,13 +41,13 @@ Open the Orion browser and complete the initial setup.
 
 ### Step 2: Configure Mint V2
 1. Open Orion and click the **three dots** in the bottom corner again.  
-   ![Step 12 - Three Dots](assets/images/1240.jpeg)
+   ![Step 12 - Three Dots](assets/images/1241.jpeg)
    
 2. Select **Mint V2** from the top of the drop-down menu.  
-   ![Step 13 - Mint V2](assets/images/1241.jpeg)
+   ![Step 13 - Mint V2](assets/images/1242.jpeg)
 
 3. In the **Engine Server** section, paste the URL you copied from Bettermint Sockets into the text field next to the **URL API** label. Make sure to turn **Using API** on.  
-   ![Step 14 - API URL](assets/images/1242.jpeg)
+   ![Step 14 - API URL](assets/images/1243.jpeg)
 
 ### Step 3: Customize Settings
 Modify the settings according to your preference.
