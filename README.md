@@ -15,7 +15,7 @@ Open the Orion browser and complete the initial setup.
    ![Step 3 - Three Dots](assets/images/IMG_1234.jpeg)
    
 2. Select **Settings** from the menu.  
-   ![Step 4 - Settings](assets/images/step4.png)
+   ![Step 4 - Settings](assets/images/IMG_1235.jpeg)
 
 3. Tap on **Search** in the settings menu.  
    ![Step 5 - Search](assets/images/step5.png)
