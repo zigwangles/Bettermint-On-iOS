@@ -18,7 +18,7 @@ Open the Orion browser and complete the initial setup.
    ![Step 4 - Settings](assets/images/IMG_1235.jpeg)
 
 3. Tap on **Search** in the settings menu.  
-   ![Step 5 - Search](assets/images/1236.jpeg)
+   ![Step 5 - Search](assets/images/IMG_1236.jpeg)
 
 4. In the **Search Engine** section, select **Google** as the default search engine.  
    ![Step 6 - Select Google](assets/images/1237.jpeg)
