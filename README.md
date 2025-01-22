@@ -21,13 +21,13 @@ Open the Orion browser and complete the initial setup.
    ![Step 5 - Search](assets/images/IMG_1236.jpeg)
 
 4. In the **Search Engine** section, select **Google** as the default search engine.  
-   ![Step 6 - Select Google](assets/images/1237.jpeg)
+   ![Step 6 - Select Google](assets/images/IMG_1237.jpeg)
 
 ### Step 4: Install Mint V2 Extension
 1. Go to the Chrome Web Store and search for **Mint V2** or use this direct link: [Mint V2 Chrome Extension](https://chromewebstore.google.com/detail/mint-v2/hjpjlhjhmbnpokpgdhpncefmchlonmhj)
    
 2. Click **Add to Orion** to install the extension.  
-   ![Step 8 - Add to Orion](assets/images/1238.jpeg)
+   ![Step 8 - Add to Orion](assets/images/IMG_1238.jpeg)
 
 🎉 **Congratulations!** You've installed Bettermint. Next, let's set it up.
 
@@ -37,17 +37,17 @@ Open the Orion browser and complete the initial setup.
 1. Go to [Bettermint Sockets by Proton Dev](https://github.com/ProtonDev-sys/bettermint-sockets).
    
 2. Scroll through the available engines and copy the configuration of the one you want to use. If your phone is slower or older, I recommend using engines that consume less RAM, like **Maia**.  
-   ![Step 11 - Copy Engine](assets/images/1239.jpeg)
+   ![Step 11 - Copy Engine](assets/images/IMG_1239.jpeg)
 
 ### Step 2: Configure Mint V2
 1. Open Orion and click the **three dots** in the bottom corner again.  
-   ![Step 12 - Three Dots](assets/images/1241.jpeg)
+   ![Step 12 - Three Dots](assets/images/IMG_1241.jpeg)
    
 2. Select **Mint V2** from the top of the drop-down menu.  
-   ![Step 13 - Mint V2](assets/images/1242.jpeg)
+   ![Step 13 - Mint V2](assets/images/IMG_1242.jpeg)
 
 3. In the **Engine Server** section, paste the URL you copied from Bettermint Sockets into the text field next to the **URL API** label. Make sure to turn **Using API** on.  
-   ![Step 14 - API URL](assets/images/1243.jpeg)
+   ![Step 14 - API URL](assets/images/IMG_1243.jpeg)
 
 ### Step 3: Customize Settings
 Modify the settings according to your preference.
