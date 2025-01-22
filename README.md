@@ -12,7 +12,7 @@ Open the Orion browser and complete the initial setup.
 
 ### Step 3: Access Browser Settings
 1. Click on the **three dots** located in the bottom corner of the browser.  
-   ![Step 3 - Three Dots](assets/images/assets/images/IMG_1234.jpeg)
+   ![Step 3 - Three Dots](assets/images/IMG_1234.jpeg)
    
 2. Select **Settings** from the menu.  
    ![Step 4 - Settings](assets/images/step4.png)
